@@ -9,3 +9,7 @@ Query to find a record with specific value (King Arthur) of name
 severity=ERROR AND 
 jsonPayload.name="King Arthur"
 ```
+
+Basic search logging query [here](https://cloud.google.com/logging/docs/view/query-library)
+
+[Language](https://cloud.google.com/logging/docs/view/logging-query-language)
