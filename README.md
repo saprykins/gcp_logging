@@ -20,6 +20,9 @@ Basic search logging query [here](https://cloud.google.com/logging/docs/view/que
 
 [Configure export to sink](https://cloud.google.com/logging/docs/export/configure_export_v2)
 
+Analysis in BQ
+
+Alerting
 
 # Labs for logging overview
 [Fundamentals of Cloud Logging](https://partner.cloudskillsboost.google/focuses/42342?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=17688932)
