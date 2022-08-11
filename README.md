@@ -13,3 +13,9 @@ jsonPayload.name="King Arthur"
 Basic search logging query [here](https://cloud.google.com/logging/docs/view/query-library)
 
 [Language](https://cloud.google.com/logging/docs/view/logging-query-language)
+
+Next steps: 
+
+[Create Sink](https://cloud.google.com/logging/docs/samples/logging-create-sink)
+
+[Configure export to sink](https://cloud.google.com/logging/docs/export/configure_export_v2)
