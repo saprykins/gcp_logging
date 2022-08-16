@@ -24,6 +24,8 @@ Analysis in BQ
 
 Alerting
 
+Check all on AF
+
 # Labs for logging overview
 [Fundamentals of Cloud Logging](https://partner.cloudskillsboost.google/focuses/42342?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=17688932)
 
