@@ -14,13 +14,14 @@ Basic search logging query [here](https://cloud.google.com/logging/docs/view/que
 
 [Language](https://cloud.google.com/logging/docs/view/logging-query-language)
 
-# Next steps: 
-
-[Create Sink](https://cloud.google.com/logging/docs/samples/logging-create-sink)
-
 [Configure export to sink](https://cloud.google.com/logging/docs/export/configure_export_v2)
 
-Analysis in BQ
+This is probably too much // [Create Sink](https://cloud.google.com/logging/docs/samples/logging-create-sink)
+
+Analysis in BQ. Basic SQL syntax [here](https://www.w3schools.com/sql/sql_where.asp)
+
+
+# Next steps: 
 
 Alerting
 
