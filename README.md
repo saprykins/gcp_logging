@@ -19,7 +19,11 @@ Basic search logging query [here](https://cloud.google.com/logging/docs/view/que
 This is probably too much // [Create Sink](https://cloud.google.com/logging/docs/samples/logging-create-sink)
 
 Analysis in BQ. Basic SQL syntax [here](https://www.w3schools.com/sql/sql_where.asp)
-
+```
+SELECT jsonPayload.name, jsonPayload.quest
+FROM `tenacious-post-355715.dataset_for_sink_test._Default_20220816`
+WHERE jsonPayload.name='test 1'
+```
 
 # Next steps: 
 
