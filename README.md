@@ -36,4 +36,4 @@ Check all on AF
 
 [Monitoring and Logging for Cloud Functions](https://partner.cloudskillsboost.google/focuses/11617?catalog_rank=%7B%22rank%22%3A11%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=17688941)
 
-[Cloud Monitoring: Qwik Start](https://partner.cloudskillsboost.google/focuses/11545?catalog_rank=%7B%22rank%22%3A20%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=17688941)
+[Cloud Monitoring: Qwik Start](https://partner.cloudskillsboost.google/focuses/11545?catalog_rank=%7B%22rank%22%3A20%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=17688941) // Create alerts
