@@ -25,9 +25,9 @@ FROM `tenacious-post-355715.dataset_for_sink_test._Default_20220816`
 WHERE jsonPayload.name='test 1'
 ```
 
-# Next steps: 
-
 Alerting
+
+# Next steps: 
 
 Check all on AF
 
