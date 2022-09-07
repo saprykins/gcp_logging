@@ -70,3 +70,19 @@ fetch gce_instance::compute.googleapis.com/instance/cpu/utilization
 
 A couple of more metrics like 'compute.googleapis.com/instance/cpu/utilization
 ' are [here](https://www.dynatrace.com/support/help/how-to-use-dynatrace/infrastructure-monitoring/cloud-platform-monitoring/google-cloud-platform-monitoring/gcp-supported-service-metrics-new/compute-engine-monitoring)
+
+Fetch consists of 2 parts [link](https://cloud.google.com/monitoring/mql/reference#absent_for-tabop)
+
+Inapropriate examples from [stackoverflow](https://stackoverflow.com/questions/68893326/gcp-mql-query-getting-metrics-minute)
+
+[ex 2](https://stackoverflow.com/questions/70320783/gcp-alert-policy-mql-query)
+
+```
+fetch logging.googleapis.com/user/DF_EDM_KO :: metric
+```
+
+[alert mql](https://cloud.google.com/monitoring/mql/alerts)
+
+[ex basic mql](https://cloud.google.com/monitoring/mql/examples#ql-alignment-for-queries)
+
+[all mql params](https://cloud.google.com/monitoring/mql/reference#time-series-alignment-group)
