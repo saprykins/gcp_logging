@@ -40,3 +40,7 @@ Check all on AF
 
 # Other
 [Operations suit](https://medium.com/google-cloud/measuring-reliability-in-gcp-step-by-step-slo-creation-guide-using-cloud-operation-sandbox-99043bd0e70f)
+
+# Searching to answer: "a metric is zero for more than 10 min"
+
+grouping basics [link](https://cloud.google.com/monitoring/api/v3/aggregation)
