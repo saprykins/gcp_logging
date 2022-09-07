@@ -43,6 +43,13 @@ Check all on AF
 
 # Searching to answer: "a metric is zero for more than 10 min"
 
-grouping basics [link](https://cloud.google.com/monitoring/api/v3/aggregation)
+Grouping and Alignment basics [link](https://cloud.google.com/monitoring/api/v3/aggregation)
 
 Alerting with MQL [link](https://cloud.google.com/monitoring/mql/alerts)
+
+Example for alert filter
+```
+resource.type="gce_instance"
+resource.labels.instance_id="2355846314441647236"
+protoPayload.methodName="v1.compute.instances.stop"
+```
