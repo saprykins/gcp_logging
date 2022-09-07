@@ -45,4 +45,4 @@ Check all on AF
 
 grouping basics [link](https://cloud.google.com/monitoring/api/v3/aggregation)
 
-Alerting with MQL[link](https://cloud.google.com/monitoring/mql/alerts)
+Alerting with MQL [link](https://cloud.google.com/monitoring/mql/alerts)
