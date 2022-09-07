@@ -48,6 +48,8 @@ Grouping and Alignment basics [link](https://cloud.google.com/monitoring/api/v3/
 Alerting with MQL [link](https://cloud.google.com/monitoring/mql/alerts)
 
 Example for alert filter
+
+When a VM stops:  
 ```
 resource.type="gce_instance"
 resource.labels.instance_id="2355846314441647236"
