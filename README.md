@@ -67,3 +67,6 @@ MQL basic
 fetch gce_instance::compute.googleapis.com/instance/cpu/utilization
 | align rate(30m)
 ```
+
+A couple of more metrics like 'compute.googleapis.com/instance/cpu/utilization
+' are [here](https://www.dynatrace.com/support/help/how-to-use-dynatrace/infrastructure-monitoring/cloud-platform-monitoring/google-cloud-platform-monitoring/gcp-supported-service-metrics-new/compute-engine-monitoring)
