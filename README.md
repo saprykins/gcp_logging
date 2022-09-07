@@ -61,3 +61,9 @@ GCP MQL general [link](https://cloud.google.com/monitoring/mql)
 Send alerts based on metrics [lab](https://partner.cloudskillsboost.google/focuses/11615?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=17860031)
 
 Distribution, not count metrics and [historgram buckets](https://cloud.google.com/logging/docs/logs-based-metrics/distribution-metrics)
+
+MQL basic  
+```
+fetch gce_instance::compute.googleapis.com/instance/cpu/utilization
+| align rate(30m)
+```
