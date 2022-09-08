@@ -45,8 +45,8 @@ Check all on AF
 
 ## Grouping and Alignment basics [link](https://cloud.google.com/monitoring/api/v3/aggregation)
 
-| Filtering
-| Aggregation = Alignment + Reduction
+| Filtering  
+| Aggregation = Alignment + Reduction  
 L
 Alerting with MQL [link](https://cloud.google.com/monitoring/mql/alerts)
 
