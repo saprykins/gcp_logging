@@ -89,3 +89,11 @@ fetch logging.googleapis.com/user/DF_EDM_KO :: metric
 [ex basic mql](https://cloud.google.com/monitoring/mql/examples#ql-alignment-for-queries)
 
 [all mql params](https://cloud.google.com/monitoring/mql/reference#time-series-alignment-group)
+
+# Pub/Sub
+
+Maintain pub/sub [healthy](https://cloud.google.com/pubsub/docs/monitoring)
+
+Pub/Sub [basics](https://cloud.google.com/pubsub/docs/overview#:~:text=An%20application%20with%20a%20subscription,Push%20and%20pull.)
+
+[Metrics](https://cloud.google.com/monitoring/api/metrics_gcp#gcp-pubsub)
